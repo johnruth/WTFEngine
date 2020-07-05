@@ -11,7 +11,7 @@
     ],
 
     "template": [
-        "A level @level @emotion @race"
+        "level @level @emotion @race"
     ],
     "level": [
         "1"
